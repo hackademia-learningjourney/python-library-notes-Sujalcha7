@@ -1,0 +1,24 @@
+Pandas
+
+Mainly used for data manipulation and analysis, pandas is a powerful python library. It features two key data structures that are highly adaptable and effective when dealing with structured data. They are the Series (one-dimensional) and DataFrame (two-dimensional). Some of the functions that Pandas offers include handling missing data in CSV, Excel, SQL etc., reading and writing data from/to different formats, filtering as well as grouping data and complex transformations on the same dataset. For any project related to machine learning or even data science in general this library stands out when it comes to handling messy datasets.
+
+Numpy
+
+In Python NumPy is an abbreviation for Numerical Python which is a base package for numerical computations. This supports large multi-dimensional arrays and matrices along with a wide collection of mathematical functions to operate on these arrays. The numpy array allows for faster execution time than regular python list making it necessary for scientific computing. Additionally, many other libraries such as Pandas, TensorFlow and Scikit-learn utilize NumPy’s ability to manipulate arrays during operation.
+
+
+TensorFlow
+
+TensorFlow is a deep learning framework that has been made open source by Google. This allows developers to create and train machine learning models especially neural networks for activities such as image recognition, natural language processing and more. Through the computational graph method, TensorFlow is flexible since operations are represented as nodes in the graph. A model can be easily moved from one platform to another by this structure including CPUs, GPUs and TPUs. In addition, there are tools like TensorBoard which help in visualizing model performance while others enable mobile deployment like TensorFlow Lite.
+
+Keras
+
+Keras is an API on top of TensorFlow which makes it easier to develop and test deep learning models. By creating a user-friendly interface where tediousness of TensorFlow has been cut down, Keras allows for quick prototyping. It supports both convolutional and recurrent networks and combinations thereof . Simplicity, modularity and extensibility are features that make keras a favorite among beginners as well professionals in deep learning field because it offers all three properties.
+
+Scikit-learn (sklearn)
+
+Sklearn is a powerful python library for machine learning, which offers a number of tools to mine data and analyse it effectively. It has many algorithms for classification, regression, clustering, model selection, and dimensionality reduction. Sklearn is also built based on the libraries such as Numpy, SciPy and Matplotlib among others to guarantee compatibility with other libraries in this stack. It is loved by data scientists due to its well-documented information that enables implementation of these models in both industrial and academic settings.
+
+PyTorch
+
+PyTorch is an open source deep learning framework made by Facebook’s AI Research lab. This framework uses dynamic computation graph allowing more flexibility when creating or modifying neural networks. Moreover, PyTorch provides easy debugging and experimentation through its smooth integration with Python language. Lots of researches are now focused on deep learning where GPU acceleration is important hence making PyTorch very famous for such projects and for deploying leading-edge models into production environment.
